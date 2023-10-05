@@ -2,7 +2,7 @@
 
 <h2>I'm testing vue3 js with laravel through a simple search system</2>
 
-## Para instalação das dependencias
+## For installation of dependencies
 
 ```sh
 npm install
@@ -23,7 +23,7 @@ npm run build
 ```sh
 php artisan serve
 ```
-### Ou
+### Or
 ```sh
 php -S localhost:8000 -t -public
 ```# make-serach
